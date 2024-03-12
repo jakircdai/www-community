@@ -290,6 +290,7 @@ and legal teams an opportunity to create solutions for healthy open source usage
 | ---- | ----- | ------- |---------- |
 | [Arnica] | Arnica | Commercial / Freemium | Cross Platform / SaaS |
 | [Vulert] | Vulert | Commercial / Freemium | Cross Platform / SaaS |
+| [CloudDefense.AI] | CloudDefense.AI | Commercial / Freemium | Cross Platform / SaaS |
 | [Scantist SCA] | Scantist | Freemium | Cross Platform / SaaS |
 | [GitHub SCA] | GitHub | Freemium | SaaS |
 | [Black Duck Hub] | Synopsys | Commercial | Cross Platform |
@@ -337,6 +338,7 @@ and legal teams an opportunity to create solutions for healthy open source usage
 | [Xray] | JFrog | Commercial | Cross Platform |
 
 [Arnica]: https://arnica.io/
+[CloudDefense.AI]: https://www.clouddefense.ai/
 [Vulert]: https://vulert.com/
 [Scantist SCA]: https://scantist.com/
 [Bytesafe]: https://bytesafe.dev/
